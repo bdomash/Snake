@@ -1,20 +1,4 @@
-/*
- * Thing to add/fix
- * 
- * Powerup for making snake shorter (chomp sound clip) (or so that you have the item and can press a button (maybe like 'i') to use it)
- * Mystery box dot
- * Jar file
- * 
- * if you pause and quit and you have a highscore, maybe record the high score
- * 
- * If you mute and then the bclip changes (ie you get the star and the star music should start) and then you try and unmute it, it will crash. Other unpause music errors
- * 
- * snake can go off the screen to the left as of now when there are no boundries...make snake appear on right side of screen if it crosses that
- * 
- * high score on web: http://www.java-gaming.org/index.php?topic=21313.0
- * mysql: http://www.java-gaming.org/index.php?topic=26015.0
- * http://www.developer.com/java/data/article.php/3417381/Using-JDBC-with-MySQL-Getting-Started.htm
- */
+
 
 import java.io.BufferedReader;
 import java.io.FileReader;
